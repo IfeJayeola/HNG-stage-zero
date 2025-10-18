@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-+bjfifojg^875y_#e4q16&(#5nxz_*k8%%s)clk%=bbi7rrwa*
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'hng-stage-zero-production-7d8d.up.railway.app'
+    'hng-stage-zero-production-7d8d.up.railway.app',
+    'localhost',
 ]
 
 
